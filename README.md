@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 welcome to my profile!
+
+#### Check out my repositories, more to come soon!
+
+![image](https://github.com/adambertalan/adambertalan/blob/master/readme_doge.jpg)
 
 <!--
 **adambertalan/adambertalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
